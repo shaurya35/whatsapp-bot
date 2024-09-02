@@ -1,0 +1,15 @@
+2024/08/30-12:09:27.529 92e0 Reusing MANIFEST D:\Visual Studio Code\Github\whatsapp-bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/08/30-12:09:27.529 92e0 Recovering log #132
+2024/08/30-12:09:27.544 92e0 Reusing old log D:\Visual Studio Code\Github\whatsapp-bot\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000132.log 
+2024/08/30-12:09:27.544 92e0 Delete type=2 #129
+2024/08/30-12:09:27.544 92e0 Delete type=2 #130
+2024/08/30-12:09:27.544 92e0 Delete type=2 #133
+2024/08/30-12:09:29.034 4b9c Level-0 table #138: started
+2024/08/30-12:09:29.038 4b9c Level-0 table #138: 116759 bytes OK
+2024/08/30-12:09:29.039 4b9c Delete type=0 #132
+2024/08/30-12:09:29.039 4b9c Manual compaction at level-0 from '\x00+\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00,\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/08/30-12:09:30.279 9abc Compacting 1@1 + 2@2 files
+2024/08/30-12:09:30.334 9abc Generated table #139@1: 52651 keys, 2212569 bytes
+2024/08/30-12:09:30.340 9abc Generated table #140@1: 4234 keys, 91945 bytes
+2024/08/30-12:09:30.340 9abc Compacted 1@1 + 2@2 files => 2304514 bytes
+2024/08/30-12:09:30.341 9abc compacted to: files[ 0 0 2 0 0 0 0 ]
